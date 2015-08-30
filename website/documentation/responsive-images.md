@@ -132,6 +132,8 @@ gallery.init();
 - The larger image, the less smooth animations will look.
 - Try to avoid serving images just based on devicePixelRatio or just based on viewport size, always combine both.
 - Feel free to use `srcset` on thumbnails that open PhotoSwipe.
+- 
+Todo: add example where larger files and smaller files are in the html code. People who cannot code javascript cannot use this very useful feature without a working example.
 
 
 
